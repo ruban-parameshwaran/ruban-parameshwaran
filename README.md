@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ruban-parameshwaran
-- 👀 I’m interested in React and Laravel
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Ruban
 
 <!---
 ruban-parameshwaran/ruban-parameshwaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
